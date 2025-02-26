@@ -1,2 +1,2 @@
 # Resume, Curriculum Vitae, LaTeX
-My [Curriculum Vitae](https://example.com) written in LaTeX.
+My [Curriculum Vitae](https://github.com/gianmarcodogliani/resume/blob/main/resume.pdf) written in LaTeX.
